@@ -1,0 +1,116 @@
+{
+  "translations": [
+    {
+      "es": "Menú",
+      "qu": "Menú nisqapi",
+      "en": "Menu"
+    },
+    {
+      "es": "Jugar",
+      "qu": "Pukllay",
+      "en": "Play"
+    },
+    {
+      "es": "Idioma",
+      "qu": "Simi",
+      "en": "Language"
+    },
+    {
+      "es": "Créditos",
+      "qu": "Créditos nisqakuna",
+      "en": "Credits"
+    },
+    {
+      "es": "Sonido",
+      "qu": "Qapariy",
+      "en": "Sound"
+    },
+    {
+      "es": "Música",
+      "qu": "Taki",
+      "en": "Music"
+    },
+    {
+      "es": "Cargando el juego",
+      "qu": "Pukllayta Kargaspa",
+      "en": "Loading game"
+    },
+    {
+      "es": "Misión",
+      "qu": "Kachay",
+      "en": "Mission"
+    },
+    {
+      "es": "Misión del juego",
+      "qu": "Pukllay mision",
+      "en": "Game mission"
+    },
+    {
+      "es": "Visión del juego",
+      "qu": "Pukllaymanta rikuy",
+      "en": "Game vision"
+    },
+    {
+      "es": "Presiona el botón para continuar",
+      "qu": "Chay botonta ñit’iy ruwanaykipaq",
+      "en": "Press the button to continue"
+    },
+    {
+      "es": "Esta es la barra de vida, se disminuye cuando no evitas los conflictos",
+      "qu": "Kay kawsay barra, vraykamun mana maqanakuykunamanta karunchakuspayki",
+      "en": "This is the life bar, it decreases when you don't avoid conflicts"
+    },
+    {
+      "es": "Puntuación",
+      "qu": "Ch'ikukuna",
+      "en": "Score"
+    },
+    {
+      "es": "Puntos",
+      "qu": "Ch'iku",
+      "en": "Points"
+    },
+    {
+      "es": "Monedas",
+      "qu": "Phisu yupakuna",
+      "en": "Coins"
+    },
+    {
+      "es": "Centro de control personal",
+      "qu": "Centro de control personal nisqa",
+      "en": "Personal control center"
+    },
+    {
+      "es": "Presionar",
+      "qu": "Ñit'iy",
+      "en": "Press"
+    },
+    {
+      "es": "Tocar",
+      "qu": "Takay",
+      "en": "Touch"
+    },
+    {
+      "es": "Pausa",
+      "qu": "Suyay",
+      "en": "Pause"
+    },
+    {
+      "es": "Victoria",
+      "qu": "Wiktucha",
+      "en": "Victory"
+    },
+    {
+      "es": "Bueno",
+      "qu": "Allin",
+      "en": "Good"
+    },
+    {
+      "es": "Malo",
+      "qu": "Mana allin",
+      "en": "Bad"
+    }
+  ]
+}
+
+  
