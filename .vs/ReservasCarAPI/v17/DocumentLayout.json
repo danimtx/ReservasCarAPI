@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL INSPIRON 3593\\source\\repos\\ReservasCarAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{303E4993-7520-4086-BABC-9BDCD14CF84C}|ReservasCarAPI.csproj|c:\\users\\dell inspiron 3593\\source\\repos\\reservascarapi\\controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303E4993-7520-4086-BABC-9BDCD14CF84C}|ReservasCarAPI.csproj|solutionrelative:controllers\\vehiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303E4993-7520-4086-BABC-9BDCD14CF84C}|ReservasCarAPI.csproj|c:\\users\\dell inspiron 3593\\source\\repos\\reservascarapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303E4993-7520-4086-BABC-9BDCD14CF84C}|ReservasCarAPI.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303E4993-7520-4086-BABC-9BDCD14CF84C}|ReservasCarAPI.csproj|c:\\users\\dell inspiron 3593\\source\\repos\\reservascarapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303E4993-7520-4086-BABC-9BDCD14CF84C}|ReservasCarAPI.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303E4993-7520-4086-BABC-9BDCD14CF84C}|ReservasCarAPI.csproj|c:\\users\\dell inspiron 3593\\source\\repos\\reservascarapi\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303E4993-7520-4086-BABC-9BDCD14CF84C}|ReservasCarAPI.csproj|solutionrelative:controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303E4993-7520-4086-BABC-9BDCD14CF84C}|ReservasCarAPI.csproj|c:\\users\\dell inspiron 3593\\source\\repos\\reservascarapi\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303E4993-7520-4086-BABC-9BDCD14CF84C}|ReservasCarAPI.csproj|solutionrelative:models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303E4993-7520-4086-BABC-9BDCD14CF84C}|ReservasCarAPI.csproj|c:\\users\\dell inspiron 3593\\source\\repos\\reservascarapi\\models\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303E4993-7520-4086-BABC-9BDCD14CF84C}|ReservasCarAPI.csproj|solutionrelative:models\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303E4993-7520-4086-BABC-9BDCD14CF84C}|ReservasCarAPI.csproj|c:\\users\\dell inspiron 3593\\source\\repos\\reservascarapi\\models\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303E4993-7520-4086-BABC-9BDCD14CF84C}|ReservasCarAPI.csproj|solutionrelative:models\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL INSPIRON 3593\\source\\repos\\ReservasCarAPI\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservasController.cs",
+              "ToolTip": "C:\\Users\\DELL INSPIRON 3593\\source\\repos\\ReservasCarAPI\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "Controllers\\ReservasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:56:41.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reservas.cs",
+              "DocumentMoniker": "C:\\Users\\DELL INSPIRON 3593\\source\\repos\\ReservasCarAPI\\Models\\Reservas.cs",
+              "RelativeDocumentMoniker": "Models\\Reservas.cs",
+              "ToolTip": "C:\\Users\\DELL INSPIRON 3593\\source\\repos\\ReservasCarAPI\\Models\\Reservas.cs",
+              "RelativeToolTip": "Models\\Reservas.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwBYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:53:34.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL INSPIRON 3593\\source\\repos\\ReservasCarAPI\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\DELL INSPIRON 3593\\source\\repos\\ReservasCarAPI\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:51:19.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\DELL INSPIRON 3593\\source\\repos\\ReservasCarAPI\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\DELL INSPIRON 3593\\source\\repos\\ReservasCarAPI\\Models\\Usuarios.cs",
+              "RelativeToolTip": "Models\\Usuarios.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwB4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:48:52.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehiculosController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL INSPIRON 3593\\source\\repos\\ReservasCarAPI\\Controllers\\VehiculosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VehiculosController.cs",
+              "ToolTip": "C:\\Users\\DELL INSPIRON 3593\\source\\repos\\ReservasCarAPI\\Controllers\\VehiculosController.cs",
+              "RelativeToolTip": "Controllers\\VehiculosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:43:31.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehiculos.cs",
+              "DocumentMoniker": "C:\\Users\\DELL INSPIRON 3593\\source\\repos\\ReservasCarAPI\\Models\\Vehiculos.cs",
+              "RelativeDocumentMoniker": "Models\\Vehiculos.cs",
+              "ToolTip": "C:\\Users\\DELL INSPIRON 3593\\source\\repos\\ReservasCarAPI\\Models\\Vehiculos.cs",
+              "RelativeToolTip": "Models\\Vehiculos.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAmwCgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:41:39.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL INSPIRON 3593\\source\\repos\\ReservasCarAPI\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\DELL INSPIRON 3593\\source\\repos\\ReservasCarAPI\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:16:24.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
