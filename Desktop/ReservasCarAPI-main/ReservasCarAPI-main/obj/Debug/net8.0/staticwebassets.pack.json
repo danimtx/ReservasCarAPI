@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DELL INSPIRON 3593\\Desktop\\ReservasCarAPI-main\\ReservasCarAPI-main\\wwwroot\\Uploads\\Usuarios\\29150606-6212-4c6f-b6b7-ef0587d6c810.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Usuarios\\29150606-6212-4c6f-b6b7-ef0587d6c810.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL INSPIRON 3593\\Desktop\\ReservasCarAPI-main\\ReservasCarAPI-main\\wwwroot\\Uploads\\Usuarios\\ac4b4b64-e86e-45ac-be39-8b40c3520cb8.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Usuarios\\ac4b4b64-e86e-45ac-be39-8b40c3520cb8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL INSPIRON 3593\\Desktop\\ReservasCarAPI-main\\ReservasCarAPI-main\\wwwroot\\Uploads\\Usuarios\\fca71c2a-3c82-49c1-8951-5122c0d51030.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Usuarios\\fca71c2a-3c82-49c1-8951-5122c0d51030.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL INSPIRON 3593\\Desktop\\ReservasCarAPI-main\\ReservasCarAPI-main\\wwwroot\\Uploads\\Vehiculos\\3af0e233-4c69-494a-a73c-50653478cd6b.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Vehiculos\\3af0e233-4c69-494a-a73c-50653478cd6b.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ReservasCarAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ReservasCarAPI.props",
+      "PackagePath": "build\\ReservasCarAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ReservasCarAPI.props",
+      "PackagePath": "buildMultiTargeting\\ReservasCarAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ReservasCarAPI.props",
+      "PackagePath": "buildTransitive\\ReservasCarAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
